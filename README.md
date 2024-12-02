@@ -26,4 +26,30 @@
 
 
 # Mathematics for Machine Learning - Day 1:
+### Day 1: Linear Algebra Foundations 📐  
+- **Topics Covered**:  
+  - **Vectors**: Basics of vector operations (addition, dot product, scalar multiplication).  
+  - **Matrices**: Matrix operations (addition, multiplication, transpose).  
+  - **Identity & Inverse Matrices**.  
+- **Key Learnings**:  
+  1. Understanding vectors in n-dimensional space.  
+  2. Importance of matrix operations in transforming data.  
+  3. Inverse matrices used to solve linear systems.  
+- **Code Implementation** 💻  
+  Implemented vector and matrix operations using Python and NumPy.  
+  ![Day 1 Code Snapshot](assets/code_day_1.png)  
 
+---
+
+### Day 2: Determinants and Matrix Inverses 🧮  
+- **Topics Covered**:  
+  - **Determinants**: Determinant of a matrix and its geometric significance.  
+  - **Inverse Matrices** (continued).  
+  - **Eigenvalues & Eigenvectors**.  
+- **Key Learnings**:  
+  1. How determinants help determine the invertibility of a matrix.  
+  2. The concept of eigenvalues and eigenvectors in linear transformations.  
+  3. How to use determinants in machine learning model optimization.  
+- **Code Implementation** 💻  
+  Implemented determinant and matrix inversion with examples.  
+  ![Day 2 Code Snapshot](assets/code_day_2.png)  
