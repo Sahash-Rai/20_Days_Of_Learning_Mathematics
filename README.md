@@ -37,7 +37,7 @@
   3. Inverse matrices used to solve linear systems.  
 - **Code Implementation** 💻  
   Implemented vector and matrix operations using Python and NumPy.  
-  ![Day 1 Code Snapshot](https://github.com/Sahash-Rai/20_Days_Of_Learning_Mathematics/blob/main/assets/code_day_1.png)  
+  ![Day 1 Code Snapshot](https://github.com/Sahash-Rai/20_Days_Of_Learning_Mathematics/blob/main/Assets/20_Days_Code/code_day_1.png)  
 
 ---
 
