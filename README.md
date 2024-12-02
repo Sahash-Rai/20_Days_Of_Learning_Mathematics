@@ -1,17 +1,13 @@
 # **Mathematical Foundations for Machine Learning: A 20-Day Exploration**
 ![Mathematics](https://github.com/Sahash-Rai/20_Days_Of_Learning_Mathematics/blob/main/Assets/Mathematics_For_ML.webp)
-A brief description of what this project does and who it's for
+## 📂 Resources:
+| Topic              | Resource Name                    | Link                                      |
+|---------------------|----------------------------------|-------------------------------------------|
+| Linear Algebra      | 3Blue1Brown YouTube Series      | [Watch Here](https://www.youtube.com/watch?v=kjBOesZCoqc) |
+| NumPy Documentation | NumPy Official Documentation    | [Read Here](https://numpy.org/doc/stable/) |
+| ML Applications     | Linear Algebra and ML (Article) | [Learn More](https://machinelearningmastery.com/linear-algebra-machine-learning/) |
 
 
 
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
-
-## Roadmap
-
-- Additional browser support
-
-- Add more integrations
+# Mathematics for Machine Learning - Day 1:
 
