@@ -52,5 +52,5 @@
   2. The concept of eigenvalues and eigenvectors in linear transformations.  
   3. How to use determinants in machine learning model optimization.  
 - **Code Implementation** 💻  
-  Implemented determinant and matrix inversion with examples.  
-  ![Day 2 Code Snapshot](assets/code_day_2.png)  
+  Implemented determinant, matrix inversion, eigenvalue and eigenvector with examples.  
+  ![Day 2 Code Snapshot](https://github.com/Sahash-Rai/20_Days_Of_Learning_Mathematics/blob/main/Assets/20_Days_Code/code_day_2.png)  
