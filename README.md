@@ -55,4 +55,25 @@
   3. How to use determinants in machine learning model optimization.  
 - **Code Implementation** 💻  
   Implemented determinant, matrix inversion, eigenvalue and eigenvector with examples.  
-  ![Day 2 Code Snapshot](https://github.com/Sahash-Rai/20_Days_Of_Learning_Mathematics/blob/main/Assets/20_Days_Code/code_day_2.png)  
+  ![Day 2 Code Snapshot](https://github.com/Sahash-Rai/20_Days_Of_Learning_Mathematics/blob/main/Assets/20_Days_Code/code_day_2.png)
+  
+---
+
+ ### Day 3: Advanced Matrix and Vector Operations 🚀
+- **Topics Covered**:
+  - **Scaling**: Adjusting the data's range for standardization or normalization.
+  - **Vector Spaces**:  Concepts of spans, basis, and dimensions.
+  - **Matrix Operations**: Dot products, multiplication, row space, and column space.
+  - **Orthogonality**: Applications of orthogonal vectors.
+  - **Projections**: Projecting vectors onto subspaces.
+- **Key Learnings**:
+  1. Scaling ensures consistent preprocessing for machine learning workflows.
+  2. Vector spaces establish a foundation for understanding linear algebra.
+  3. Orthogonality and projections are essential for dimensionality reduction.
+  4. Matrix operations accelerate computations in higher dimensions.
+- **Code Implementation** 💻  
+    Implemented  scaling, vector operations, matrix products, orthogonality, and projections using Python and NumPy.
+   ![Day 3 Code Snapshot](
+
+
+
