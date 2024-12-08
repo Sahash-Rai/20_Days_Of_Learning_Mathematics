@@ -1,8 +1,7 @@
 # **Mathematical Foundations for Machine Learning: A 20-Day Exploration**
 ![Mathematics](https://github.com/Sahash-Rai/20_Days_Of_Learning_Mathematics/blob/main/Assets/Mathematics_For_ML.webp)
 ## 📂 Resources: Mathematics for Machine Learning  
-- [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
-- [**GeeksforGeeks**](https://www.geeksforgeeks.org/)
+- [**GeeksforGeeks**](https://www.geeksforgeeks.org/machine-learning/?ref=home-articlecards)
 
 | Topic                       | Resource Name                             | Link                                                                 |
 |-----------------------------|-------------------------------------------|----------------------------------------------------------------------|
