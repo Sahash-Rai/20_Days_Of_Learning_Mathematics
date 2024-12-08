@@ -1,7 +1,7 @@
 # **Mathematical Foundations for Machine Learning: A 20-Day Exploration**
 ![Mathematics](https://github.com/Sahash-Rai/20_Days_Of_Learning_Mathematics/blob/main/Assets/Mathematics_For_ML.webp)
 ## 📂 Resources: Mathematics for Machine Learning  
-- [**GeeksforGeeks**](https://www.geeksforgeeks.org/machine-learning/?ref=home-articlecards)
+
 
 | Topic                       | Resource Name                             | Link                                                                 |
 |-----------------------------|-------------------------------------------|----------------------------------------------------------------------|
@@ -22,6 +22,7 @@
 | **General Math for ML**     | Mathematics for Machine Learning (Book)   | [Read Here](https://mml-book.github.io/)                            |
 |                             | Essential Math for Data Science           | [Learn More](https://www.datacamp.com/courses/essential-math-for-data-science) |
 |                             | Brilliant.org (Interactive Math Courses)  | [Start Here](https://brilliant.org/)                                |
+- [**GeeksforGeeks**](https://www.geeksforgeeks.org/machine-learning/?ref=home-articlecards)
 
 ---
 
