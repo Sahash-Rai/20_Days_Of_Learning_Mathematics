@@ -72,8 +72,8 @@
   3. Orthogonality and projections are essential for dimensionality reduction.
   4. Matrix operations accelerate computations in higher dimensions.
 - **Code Implementation** 💻  
-    Implemented  scaling, vector operations, matrix products, orthogonality, and projections using Python and NumPy.
-   ![Day 3 Code Snapshot](
+    Implemented  scaling, vector operations, matrix products and projections using Python and NumPy.
+   ![Day 3 Code Snapshot](https://github.com/SahashRaee/20_Days_Of_Learning_Mathematics/blob/main/Assets/20_Days_Code/code_day_3.png)
 
 
 
