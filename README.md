@@ -94,7 +94,7 @@
   - **Linear Transformation**: Applied a matrix transformation to a vector using matrix multiplication.  
   - **LU Decomposition**: Decomposed a matrix into its lower and upper triangular matrices.  
   - **Matrix Rank**: Calculated the rank of a matrix to understand its linear dependence.
-    ![Day 4 Code Snapshot](https://github.com/SahashRaee/20_Days_Of_Learning_Mathematics/tree/main/Assets/20_Days_Code.png)
+    ![Day 4 Code Snapshot](https://github.com/SahashRaee/20_Days_Of_Learning_Mathematics/blob/main/Assets/20_Days_Code/code_day_4.png)
 
 
 
