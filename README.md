@@ -75,5 +75,24 @@
     Implemented  scaling, vector operations, matrix products and projections using Python and NumPy.
    ![Day 3 Code Snapshot](https://github.com/SahashRaee/20_Days_Of_Learning_Mathematics/blob/main/Assets/20_Days_Code/code_day_3.png)
 
+  # Mathematics for Machine Learning - Day 4:
+
+### Day 4: Linear Transformations, LU Decomposition, and Matrix Rank 📊  
+
+- **Topics Covered**:  
+  - **Linear Transformations**: Applying transformations like scaling, rotation, and reflection using matrices.  
+  - **LU Decomposition**: Factorizing a matrix into lower and upper triangular matrices to simplify solving linear systems.  
+  - **Rank of a Matrix**: Understanding the number of linearly independent rows or columns in a matrix.  
+
+- **Key Learnings**:  
+  1. **Linear Transformations** help in transforming vectors by scaling, rotating, or reflecting them.  
+  2. **LU Decomposition** helps in solving systems of linear equations efficiently and calculating determinants.  
+  3. The **Rank of a Matrix** gives insight into the linear independence of the matrix's rows and columns.  
+
+- **Code Implementation** 💻:  
+  - **Linear Transformation**: Applied a matrix transformation to a vector using matrix multiplication.  
+  - **LU Decomposition**: Decomposed a matrix into its lower and upper triangular matrices.  
+  - **Matrix Rank**: Calculated the rank of a matrix to understand its linear dependence.
+
 
 
