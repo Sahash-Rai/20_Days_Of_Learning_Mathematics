@@ -74,8 +74,9 @@
 - **Code Implementation** 💻  
     Implemented  scaling, vector operations, matrix products and projections using Python and NumPy.
    ![Day 3 Code Snapshot](https://github.com/SahashRaee/20_Days_Of_Learning_Mathematics/blob/main/Assets/20_Days_Code/code_day_3.png)
+  
 
-  # Mathematics for Machine Learning - Day 4:
+---
 
 ### Day 4: Linear Transformations, LU Decomposition, and Matrix Rank 📊  
 
