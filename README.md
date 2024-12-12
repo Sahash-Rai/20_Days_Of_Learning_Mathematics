@@ -96,5 +96,23 @@
   - **Matrix Rank**: Calculated the rank of a matrix to understand its linear dependence.
     ![Day 4 Code Snapshot](https://github.com/SahashRaee/20_Days_Of_Learning_Mathematics/blob/main/Assets/20_Days_Code/code_day_4.png)
 
+    ---
+    ## Day 5: Advanced Linear Algebra Concepts 📐
+
+**Topics Covered**:  
+- **Diagonalization**  
+- **Singular Value Decomposition (SVD)**  
+- **Principal Component Analysis (PCA)**  
+- **QR Decomposition**
+
+**Key Learnings**:  
+1. **Diagonalization**: Decompose a matrix into eigenvectors and eigenvalues.  
+2. **SVD**: Factorize matrices into orthogonal matrices and singular values for dimensionality reduction and more.  
+3. **PCA**: Used for reducing the dimensionality of data, retaining the most important features.  
+4. **QR Decomposition**: Decomposes a matrix into an orthogonal and upper triangular matrix to solve linear systems.
+
+**Code Implementation** 💻  
+Implemented a class-based approach for performing advanced linear algebra operations on matrices. Below is the code for each operation:
+
 
 
