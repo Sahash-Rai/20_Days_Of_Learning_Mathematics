@@ -9,9 +9,7 @@
 |                             | Linear Algebra Cheat Sheet                | [PDF](https://mathworld.wolfram.com/topics/LinearAlgebra.html) |
 | **Vectors and Matrices**    | NumPy Documentation                       | [Read Here](https://numpy.org/doc/stable/)                          |
 |                             | Khan Academy: Vector Math                 | [Watch Here](https://www.khanacademy.org/math/linear-algebra)       |
-| **Probability & Statistics**| Think Stats by Allen B. Downey           | [Read Book](https://greenteapress.com/wp/think-stats/)              |
-|                             | StatQuest with Josh Starmer (YouTube)     | [Watch Here](https://www.youtube.com/c/statquest)                   |
-|                             | Probability and Statistics for ML         | [Read Here](https://machinelearningmastery.com/probability-for-machine-learning/) |
+| **Statistics**| Think Stats by Allen B. Downey           | [Read Book](https://greenteapress.com/wp/think-stats/)              |
 | **Calculus**                | Calculus for Machine Learning (Article)   | [Learn Here](https://towardsdatascience.com/machine-learning-math-calculus-1a208f2c844a) |
 |                             | Paul’s Online Notes (Calculus)            | [Visit Here](http://tutorial.math.lamar.edu/)                       |
 |                             | Khan Academy: Calculus                    | [Learn Here](https://www.khanacademy.org/math/calculus-1)           |
