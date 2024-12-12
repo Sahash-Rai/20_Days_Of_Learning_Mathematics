@@ -6,10 +6,9 @@
 | Topic                       | Resource Name                             | Link                                                                 |
 |-----------------------------|-------------------------------------------|----------------------------------------------------------------------|
 | **Linear Algebra**          | 3Blue1Brown YouTube Series                | [Watch Here](https://www.youtube.com/watch?v=kjBOesZCoqc)            |
-|                             | Gilbert Strang's Linear Algebra (MIT OCW) | [Learn Here](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) |
-|                             | Linear Algebra Cheat Sheet                | [Download PDF](https://mathworld.wolfram.com/topics/LinearAlgebra.html) |
+|                             | Linear Algebra Cheat Sheet                | [PDF](https://mathworld.wolfram.com/topics/LinearAlgebra.html) |
 | **Vectors and Matrices**    | NumPy Documentation                       | [Read Here](https://numpy.org/doc/stable/)                          |
-|                             | Khan Academy: Vector Math                 | [Learn Here](https://www.khanacademy.org/math/linear-algebra)       |
+|                             | Khan Academy: Vector Math                 | [Watch Here](https://www.khanacademy.org/math/linear-algebra)       |
 | **Probability & Statistics**| Think Stats by Allen B. Downey           | [Read Book](https://greenteapress.com/wp/think-stats/)              |
 |                             | StatQuest with Josh Starmer (YouTube)     | [Watch Here](https://www.youtube.com/c/statquest)                   |
 |                             | Probability and Statistics for ML         | [Read Here](https://machinelearningmastery.com/probability-for-machine-learning/) |
