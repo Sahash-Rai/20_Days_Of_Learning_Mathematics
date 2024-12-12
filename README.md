@@ -112,7 +112,9 @@
 4. **QR Decomposition**: Decomposes a matrix into an orthogonal and upper triangular matrix to solve linear systems.
 
 **Code Implementation** 💻  
-Implemented a class-based approach for performing advanced linear algebra operations on matrices. Below is the code for each operation:
+Implemented a class-based approach for performing advanced linear algebra operations on matrices.
+
+![Day 5 Code Snapshot](
 
 
 
