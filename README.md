@@ -14,7 +14,6 @@
 |                             | Khan Academy: Calculus                    | [Learn Here](https://www.khanacademy.org/math/calculus-1)           
 | **Optimization**            | Convex Optimization by Boyd and Vandenberghe | [Read Here](https://web.stanford.edu/~boyd/cvxbook/)                |
 |                             | Gradient Descent Explained (YouTube)      | [Watch Here](https://www.youtube.com/watch?v=sDv4f4s2SB8)           |
-|                             | Optimization in ML (Blog)                 | [Read Here](https://ml-cheatsheet.readthedocs.io/en/latest/optimization.html) |
 | **General Math for ML**     | Mathematics for Machine Learning (Book)   | [Read Here](https://mml-book.github.io/)                            |
 |                             | Essential Math for Data Science           | [Learn More](https://www.datacamp.com/courses/essential-math-for-data-science) |
 |                             | Brilliant.org (Interactive Math Courses)  | [Start Here](https://brilliant.org/)                                |
