@@ -10,9 +10,8 @@
 | **Vectors and Matrices**    | NumPy Documentation                       | [Read Here](https://numpy.org/doc/stable/)                          |
 |                             | Khan Academy: Vector Math                 | [Watch Here](https://www.khanacademy.org/math/linear-algebra)       |
 | **Statistics**| Think Stats by Allen B. Downey           | [Read Book](https://greenteapress.com/wp/think-stats/)              |
-| **Calculus**                | Calculus for Machine Learning (Article)   | [Learn Here](https://towardsdatascience.com/machine-learning-math-calculus-1a208f2c844a) |
-|                             | Paul’s Online Notes (Calculus)            | [Visit Here](http://tutorial.math.lamar.edu/)                       |
-|                             | Khan Academy: Calculus                    | [Learn Here](https://www.khanacademy.org/math/calculus-1)           |
+| **Calculus**                | Paul’s Online Notes (Calculus)            | [Visit Here](http://tutorial.math.lamar.edu/)                       | 
+|                             | Khan Academy: Calculus                    | [Learn Here](https://www.khanacademy.org/math/calculus-1)           
 | **Optimization**            | Convex Optimization by Boyd and Vandenberghe | [Read Here](https://web.stanford.edu/~boyd/cvxbook/)                |
 |                             | Gradient Descent Explained (YouTube)      | [Watch Here](https://www.youtube.com/watch?v=sDv4f4s2SB8)           |
 |                             | Optimization in ML (Blog)                 | [Read Here](https://ml-cheatsheet.readthedocs.io/en/latest/optimization.html) |
