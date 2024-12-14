@@ -112,7 +112,7 @@ Implemented a class based approach for performing  linear algebra operations on 
 ![Day 5 Code Snapshot](https://github.com/SahashRaee/20_Days_Of_Learning_Mathematics/blob/main/Assets/20_Days_Code/code_day_5.png)
 
 ---
-# Day 5: Advanced Matrix Operations & Decompositions 📐
+## Day 6: Advanced Matrix Operations & Decompositions 📐
 
 ### Topics Covered:
 - **Diagonalization**: Process of diagonalizing a matrix using its eigenvalues and eigenvectors.
