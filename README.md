@@ -126,7 +126,7 @@ Implemented a class based approach for performing  linear algebra operations on 
 
 ### Code Implementation 💻
 Implemented advanced matrix operations, including diagonalization, PCA, and SVD, to analyze and transform matrices using Python and libraries like NumPy and Scikit-learn.
-![Day 6 Code Snapshot](
+![Day 6 Code Snapshot](https://github.com/SahashRaee/20_Days_Of_Learning_Mathematics/blob/main/Assets/20_Days_Code/code_day_6.png)
 
 
 
