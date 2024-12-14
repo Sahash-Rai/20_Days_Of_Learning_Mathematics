@@ -111,5 +111,23 @@ Implemented a class based approach for performing  linear algebra operations on 
 
 ![Day 5 Code Snapshot](https://github.com/SahashRaee/20_Days_Of_Learning_Mathematics/blob/main/Assets/20_Days_Code/code_day_5.png)
 
+---
+# Day 5: Advanced Matrix Operations & Decompositions 📐
+
+### Topics Covered:
+- **Diagonalization**: Process of diagonalizing a matrix using its eigenvalues and eigenvectors.
+- **Principal Component Analysis **: Dimensionality reduction technique for high-dimensional datasets.
+- **Singular Value Decomposition **: Factorizing a matrix into three components.
+
+### Key Learnings:
+1. **Diagonalization**: Understanding how to express a matrix as a product of eigenvectors, eigenvalues, and the inverse of the eigenvector matrix.
+2. **PCA**: Applying PCA for reducing the dimensions of the dataset while preserving the variance.
+3. **SVD**: Breaking a matrix into its singular values and vectors, with applications in compression, data reduction, and noise filtering.
+
+### Code Implementation 💻
+Implemented advanced matrix operations, including diagonalization, PCA, and SVD, to analyze and transform matrices using Python and libraries like NumPy and Scikit-learn.
+![Day 6 Code Snapshot](
+
+
 
 
