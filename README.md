@@ -2,7 +2,7 @@
 ![Mathematics](https://github.com/Sahash-Rai/20_Days_Of_Learning_Mathematics/blob/main/Assets/Mathematics_For_ML.webp)
 ## 📂 Resources: Mathematics for Machine Learning  
 
-
+h
 | Topic                       | Resource Name                             | Link                                                                 |
 |-----------------------------|-------------------------------------------|----------------------------------------------------------------------|
 | **Linear Algebra**          | 3Blue1Brown YouTube Series                | [Watch Here](https://www.youtube.com/watch?v=kjBOesZCoqc)            |
