@@ -164,4 +164,5 @@ Implemented advanced matrix operations, including diagonalization, PCA, and SVD,
 
 ### Code Implementation 💻
 Implemented Bayes Theorem, Bernoulli Distribution, and Binomial Distribution using Python and SciPy.
+![Day 8 Code Snapshot](https://github.com/SahashRaee/20_Days_Of_Learning_Mathematics/blob/main/Assets/20_Days_Code/code_day_8.png)
 
