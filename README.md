@@ -148,3 +148,20 @@ Implemented advanced matrix operations, including diagonalization, PCA, and SVD,
 - **Code Implementation** 💻:  
   Implemented a concise structure to handle conditional probability, binomial PMF, and normal PDF with visualizations for better understanding.
   ![Day 7 Code Snapshot](https://github.com/SahashRaee/20_Days_Of_Learning_Mathematics/blob/main/Assets/20_Days_Code/code_day_7.png)
+
+---
+## Day 8: Probability Distributions and Bayes Theorem 🎲
+
+### Topics Covered:
+- **Bayes Theorem**: Formula for updating the probability of a hypothesis given new evidence.
+- **Bernoulli Distribution**: Describes binary outcomes with one parameter for success probability.
+- **Binomial Distribution**: A generalization of the Bernoulli distribution for multiple trials.
+
+### Key Learnings:
+- Bayes Theorem helps in updating beliefs with new data, essential in statistical inference and machine learning.
+- Bernoulli Distribution models binary outcomes like success/failure.
+- Binomial Distribution extends Bernoulli for multiple independent trials, useful in many classification and prediction tasks.
+
+### Code Implementation 💻
+Implemented Bayes Theorem, Bernoulli Distribution, and Binomial Distribution using Python and SciPy.
+
