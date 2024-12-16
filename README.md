@@ -92,7 +92,7 @@
     ![Day 4 Code Snapshot](https://github.com/SahashRaee/20_Days_Of_Learning_Mathematics/blob/main/Assets/20_Days_Code/code_day_4.png)
 
     ---
-    ## Day 5: Advanced Linear Algebra Concepts 📐
+## Day 5: Advanced Linear Algebra Concepts 📐
 
 **Topics Covered**:  
 - **Diagonalization**  
@@ -133,7 +133,7 @@ Implemented advanced matrix operations, including diagonalization, PCA, and SVD,
 
 ---
 
-#  Day 7: Probability Foundations 🎲  
+## Day 7: Probability Foundations 🎲  
 
 - **Topics Covered**:  
   - Basics of probability: Events, sample space, and probability axioms.  
