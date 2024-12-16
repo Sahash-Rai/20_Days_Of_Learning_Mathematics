@@ -146,4 +146,5 @@ Implemented advanced matrix operations, including diagonalization, PCA, and SVD,
   3. Binomial distribution models discrete events, while the Normal distribution models continuous data.  
 
 - **Code Implementation** 💻:  
-  Implemented a concise structure to handle conditional probability, binomial PMF, and normal PDF with visualizations for better understanding.  
+  Implemented a concise structure to handle conditional probability, binomial PMF, and normal PDF with visualizations for better understanding.
+  ![Day 7 Code Snapshot](https://github.com/SahashRaee/20_Days_Of_Learning_Mathematics/blob/main/Assets/20_Days_Code/code_day_7.png)
