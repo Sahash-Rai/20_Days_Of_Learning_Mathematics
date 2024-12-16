@@ -131,3 +131,19 @@ Implemented advanced matrix operations, including diagonalization, PCA, and SVD,
 
 
 
+---
+
+#  Day 7: Probability Foundations 🎲  
+
+- **Topics Covered**:  
+  - Basics of probability: Events, sample space, and probability axioms.  
+  - Conditional probability and Bayes theorem.  
+  - Discrete and continuous distributions: Binomial and Normal.  
+
+- **Key Learnings**:  
+  1. Conditional probability helps to calculate the likelihood of an event given another event.  
+  2. Bayes theorem is essential for updating probabilities based on new evidence.  
+  3. Binomial distribution models discrete events, while the Normal distribution models continuous data.  
+
+- **Code Implementation** 💻:  
+  Implemented a concise structure to handle conditional probability, binomial PMF, and normal PDF with visualizations for better understanding.  
