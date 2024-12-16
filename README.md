@@ -116,8 +116,8 @@ Implemented a class based approach for performing  linear algebra operations on 
 
 ### Topics Covered:
 - **Diagonalization**: Process of diagonalizing a matrix using its eigenvalues and eigenvectors.
-- **Principal Component Analysis **: Dimensionality reduction technique for high-dimensional datasets.
-- **Singular Value Decomposition **: Factorizing a matrix into three components.
+- **Principal Component Analysis**: Dimensionality reduction technique for high-dimensional datasets.
+- **Singular Value Decomposition**: Factorizing a matrix into three components.
 
 ### Key Learnings:
 1. **Diagonalization**: Understanding how to express a matrix as a product of eigenvectors, eigenvalues, and the inverse of the eigenvector matrix.
