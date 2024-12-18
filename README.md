@@ -1,6 +1,6 @@
 # **Mathematical Foundations for Machine Learning: A 20-Day Exploration**
 ![Mathematics](https://github.com/Sahash-Rai/20_Days_Of_Learning_Mathematics/blob/main/Assets/Mathematics_For_ML.webp)
-## 📂 Resources: Mathematics for Machine Learningss
+## 📂 Resources: Mathematics for Machine Learningsss
 s
 
 | Topic                       | Resource Name                             | Link                                                                 |
